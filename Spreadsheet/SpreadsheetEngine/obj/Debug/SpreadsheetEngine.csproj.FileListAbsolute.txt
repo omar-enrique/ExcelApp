@@ -1,0 +1,6 @@
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache

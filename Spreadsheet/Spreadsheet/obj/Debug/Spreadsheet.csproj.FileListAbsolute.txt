@@ -1,0 +1,13 @@
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Form1.resources
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.Cache
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+D:\Documents\GitHub\CS_321\cs321-ofinolev\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.AboutForm.resources
